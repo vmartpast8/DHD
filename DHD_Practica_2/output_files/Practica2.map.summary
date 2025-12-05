@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed May 29 16:20:27 2024
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : Practica2
+Top-level Entity Name : vga_top
+Family : Cyclone IV E
+Total logic elements : 355
+    Total combinational functions : 331
+    Dedicated logic registers : 89
+Total registers : 89
+Total pins : 33
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1

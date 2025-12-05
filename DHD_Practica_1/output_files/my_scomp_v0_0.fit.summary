@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu May 16 15:54:09 2024
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : my_scomp_v0_0
+Top-level Entity Name : my_scomp_v0_0
+Family : Cyclone IV E
+Device : EP4CE30F29C7
+Timing Models : Final
+Total logic elements : 304 / 28,848 ( 1 % )
+    Total combinational functions : 296 / 28,848 ( 1 % )
+    Dedicated logic registers : 76 / 28,848 ( < 1 % )
+Total registers : 76
+Total pins : 42 / 533 ( 8 % )
+Total virtual pins : 0
+Total memory bits : 4,096 / 608,256 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
